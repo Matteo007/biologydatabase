@@ -1,0 +1,12 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  background-image:url("background-image: url('https://lh3.googleusercontent.com/LYK561qk5626x_zaDU_K06fLfGBWDuSagvJ_Zyci6NjGH5R38bJdVNlzlGmEuzNozRX1kQ=s85');
+  color: #373fff;
+}
